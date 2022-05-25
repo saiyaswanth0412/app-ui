@@ -1,0 +1,18 @@
+{
+    "components": [
+        {
+            "id": "c1",      
+            "name": "Source"
+        },
+        {
+            "id": "c2",
+            "name": "Destination"
+        }
+    ],
+    "links": [
+        {
+            "src": "c1",   
+            "dest": "c2"
+        }
+    ]
+}
