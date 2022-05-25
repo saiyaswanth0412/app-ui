@@ -26,5 +26,7 @@ The Application runs in the localhost 3000
 
 ![WhatsApp Image 2022-05-26 at 12 07 53 AM](https://user-images.githubusercontent.com/60351767/170343091-37eb4304-17fd-4ce2-9de5-04f895326059.jpeg)
 
-Mock server
+Mock server with service integration
+```localhost:4000/components```
+
 ![WhatsApp Image 2022-05-25 at 11 48 16 PM](https://user-images.githubusercontent.com/60351767/170343191-a9315358-c717-48b7-b7d3-b65c3dc1f70d.jpeg)
